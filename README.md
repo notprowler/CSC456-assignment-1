@@ -1,16 +1,16 @@
 # Topics in Software Engineering
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# ChefIT  
 
-# Tools
-The tools that are installed with this devcontainer are:
+## Description
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+As college students, finding the time and resources to cook nutritious, affordable meals can be challenging. Eating out frequently is expensive, and meal preparation can feel overwhelming, especially when trying to use available ingredients creatively. The hardest part is often figuring out what to make with what’s already in the kitchen.
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+To address this problem, I propose *ChefIT*—a full-stack web application that helps users discover quick, delicious, and authentic recipes based on the ingredients they already have. By simply inputting their groceries, raw materials, or leftovers, users can instantly receive a variety of recipe suggestions, minimizing food waste while maximizing convenience.
+
+## Target Users
+
+The primary users of ChefIT are individuals, particularly college students and working professionals, who struggle with meal inspiration and efficiency in cooking. Many students lack the time, experience, or creativity to experiment with new recipes, often resorting to repetitive meals or takeout. ChefIT empowers them to explore diverse meal options effortlessly, making cooking more accessible, enjoyable, and cost-effective.
+
+
+
